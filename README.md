@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Skj0nes-2/polytrack/blob/dd657022af0e09565faf6dafc5fcafbf3038a585/Polytrack.png">
+<img width="350" src="https://github.com/Skj0nes-2/polytrack/blob/dd657022af0e09565faf6dafc5fcafbf3038a585/Polytrack.png">
 PolyTrack is a fast-paced, low-poly racing game where you race against the clock on tracks you can design or choose from a selection, intending to improve your times and climb the leaderboard. 
 
 ### Gameplay:
